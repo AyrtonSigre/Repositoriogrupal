@@ -1,2 +1,2 @@
-# Repositoriogrupal
+Juan Andres Panissidi Espasandin
 Ayrton Sigre

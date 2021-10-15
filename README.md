@@ -1,2 +1,2 @@
 # Repositoriogrupal
-# Juan Andres Panissidi Espasandin
+Juan Andres Panissidi Espasandin
